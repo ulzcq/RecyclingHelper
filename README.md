@@ -12,12 +12,10 @@
   
 
 ## 목차
-- [RecyclingHelper](#recyclinghelper)
-  - [목차](#목차)
-  - [1. 기능](#1-기능)
-  - [2. 사용 기술](#2-사용-기술)
-  - [3. 재활용품 분류 기준](#3-재활용품-분류-기준)
-  - [4. 사용 안내](#4-사용-안내)
+  [1. 기능](#1-기능)  
+  [2. 사용 기술](#2-사용-기술)  
+  [3. 재활용품 분류 기준](#3-재활용품-분류-기준)  
+  [4. 사용 안내](#4-사용-안내)
 
 
 ## 1. 기능
@@ -28,18 +26,22 @@
 
 ## 2. 사용 기술
 
-1. Java 11
-2. C++
-3. Android
-4. Gradle
-5. OpenCV
-6. Tesseract API
-7. SQLite
+- Java 11
+- C++
+- Android
+- Gradle
+- OpenCV
+- Tesseract API
+- SQLite
 
 
 ## 3. 재활용품 분류 기준
 
 ![table1.png](table1.png)
+
+## 4. 플로우 차트
+
+![flowchart.png](flowchart.png)
 
 ## 4. 사용 안내
 
