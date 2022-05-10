@@ -15,7 +15,9 @@
   [1. 기능](#1-기능)  
   [2. 사용 기술](#2-사용-기술)  
   [3. 재활용품 분류 기준](#3-재활용품-분류-기준)  
-  [4. 사용 안내](#4-사용-안내)
+  [4. 산출 문서](#4-산출-문서)
+  [5. 플로우 차트](#5-플로우-차트)
+  [6. 사용 안내](#6-사용-안내)
 
 
 ## 1. 기능
@@ -39,11 +41,18 @@
 
 ![table1.png](table1.png)
 
-## 4. 플로우 차트
+## 4. 산출 문서
+
+[요구사항 문서](https://docs.google.com/document/d/1G3Z9FQkNhMRGHjozTetWniI2VK_3IKHNZxWFTil1u90/edit?usp=sharing)
+
+[최종 보고서](https://docs.google.com/document/d/1G3Z9FQkNhMRGHjozTetWniI2VK_3IKHNZxWFTil1u90/edit?usp=sharing)
+
+
+## 5. 플로우 차트
 
 ![flowchart.png](flowchart.png)
 
-## 4. 사용 안내
+## 6. 사용 안내
 
 ![pamplat1.png](pamplat1.jpg)
 ![pamplat2.png](pamplat2.jpg)
