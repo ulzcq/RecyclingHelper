@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Challenge_all_dialog">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_margin="24dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/challengeImage"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/joinchallengeContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="This is the challenge explanation."
+            android:textAlignment="center"/>
+        <Button
+            android:id="@+id/btn_joinChallenge"
+            android:text="Join the Challenge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</FrameLayout>

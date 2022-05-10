@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_home"
+            android:icon="@drawable/home"
+            android:title="Home"/>
+        <item
+            android:id="@+id/menu_challenge"
+            android:icon="@drawable/goal"
+            android:title="Challenge" />
+        <item
+            android:id="@+id/menu_campaign"
+            android:icon="@drawable/megaphone"
+            android:title="Campaign" />
+    </group>
+</menu>
