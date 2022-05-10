@@ -14,9 +14,9 @@
 ## 목차
   [1. 기능](#1-기능)  
   [2. 사용 기술](#2-사용-기술)  
-  [3. 재활용품 분류 기준](#3-재활용품-분류-기준)  
-  [4. 산출 문서](#4-산출-문서)  
-  [5. 플로우 차트](#5-플로우-차트)  
+  [3. 산출 문서](#3-산출-문서)  
+  [4. 플로우 차트](#4-플로우-차트)  
+  [5. 재활용품 분류 기준](#5-재활용품-분류-기준)  
   [6. 사용 안내](#6-사용-안내)
   
 
@@ -36,21 +36,21 @@
 - Tesseract API
 - SQLite
 
-
-## 3. 재활용품 분류 기준
-
-![table1.png](table1.png)
-
-## 4. 산출 문서
+## 3. 산출 문서
 
 [요구사항 문서](https://docs.google.com/document/d/1G3Z9FQkNhMRGHjozTetWniI2VK_3IKHNZxWFTil1u90/edit?usp=sharing)
 
 [최종 보고서](https://docs.google.com/document/d/1CePAl9TbC8ctGSAOvcUSv4GbObWp1bQcSOTJHJ5mCSo/edit?usp=sharing)
 
 
-## 5. 플로우 차트
+## 4. 플로우 차트
 
 ![flowchart.png](flowchart.png)
+
+
+## 5. 재활용품 분류 기준
+
+![table1.png](table1.png)
 
 ## 6. 사용 안내
 
